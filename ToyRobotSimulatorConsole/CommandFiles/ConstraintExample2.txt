@@ -1,0 +1,9 @@
+﻿-- INPUT
+
+PLACE 0,0,NORTH
+LEFT
+REPORT
+
+-- OUTPUT
+
+-- 0,0,WEST
